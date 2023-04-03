@@ -36,4 +36,4 @@
 ### Provisioning a bucket
 run ```terraform plan``` inside terraform folder   
 
-run ```terraform apply``` to apply the changes to your cloud provider
+run ```terraform apply``` and confirm typing ```yes``` to apply the changes to your cloud provider
