@@ -33,4 +33,7 @@
     ```   
 5. run ```terraform init``` at the main.tf file path
 
+### Provisioning a bucket
+run ```terraform plan``` inside terraform folder   
 
+run ```terraform apply``` to apply the changes to your cloud provider
