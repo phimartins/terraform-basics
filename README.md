@@ -10,7 +10,7 @@
 
     ```sudo sh environment_setup/aws_cli.sh```   
 
-3. condifigure aws cli:   
+3. configure aws cli:   
 
     ```aws configure```   
 
