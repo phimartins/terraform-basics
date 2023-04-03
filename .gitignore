@@ -2,3 +2,4 @@ aws/
 awscliv2.zip
 .terraform/
 terraform/.terraform.lock.hcl
+terraform.tfstate
