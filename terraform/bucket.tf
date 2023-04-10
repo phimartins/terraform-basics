@@ -10,7 +10,7 @@ resource "aws_s3_bucket" "raw-bucket" {
 }
 
 # setting the bucket to private
-resource "aws_s3_bucket" "block_public_1" {
+resource "aws_s3_bucket_public_access_block" "block_public_1" {
     bucket = aws_s3_bucket.raw-bucket.id
 
     block_public_acls = true
